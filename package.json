@@ -12,7 +12,7 @@
     "web-vitals": "^0.2.4"
     
   },
-  "homepage": "http://shekharpatil777.github.io/MY-APP",
+  "homepage": "http://shekharpatil777.github.io/my-app",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
